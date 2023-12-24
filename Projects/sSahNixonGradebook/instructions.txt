@@ -1,0 +1,37 @@
+First prompts you to enter a class name,
+if a file is found with the same name open that class and import the information from the file into the objects
+else make a new file with that class name.
+If the the class does not contain a weighting system prompt the user to create one immideantly
+after that you will be prompted with all the options to edit your program
+You can add an assessment
+	it will ask you to input an assessment name
+	then it will ask you to input a weighting type
+	if there isnt a duplicate type and the inputed weighting type exists create the assessment
+	next it will prompt you to input grades of all the existing students for this assessment
+You can add an student
+	it will ask you to input a first and last name
+	if there is no duplicate it will create the student
+	next it will prompt you to input the grade for all the currently existing assessments for this student
+You can edit a specific student's grade
+	It will ask you to input the students first and last name
+	It the student exists asks which assessment you want to change
+	If the assessment exists asks what you want to change the grade to
+You can delete an assessment
+	It will ask you for the assessment name
+	if it exists it deletes it and the grades with it
+You can delete a student
+	It will ask you to input the students first and last name
+	If the students exists delete the students and the grades with it
+You can change the weighting
+	It will delete the previous weighting and assignments but you can change the class weighting without deleteing the students in the class
+You can calculate the overall grade of a student
+	You input the first and last name of a student
+	If the student exists calulate the weighted letter grade of their overall grade
+		If the grade is over 100 then just display the number
+You can print the gradebook
+	It will print the weighting system along with the assessment and the grade each student got for each assessment
+You can save the program
+	Will prompt you to ask if you want to save or not
+	If you say no prompt with the other commands
+	if yes then save the program
+		saving will delete the gradebook file remake the file and put all the information in the objects into the file and then end the program

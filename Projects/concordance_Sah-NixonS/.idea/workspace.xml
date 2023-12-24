@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc0e3495-2d6e-488c-8943-d30c20826cd9" name="Changes" comment="Tidied print function and fixed punctuation trimming problems." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QZ20CPMzRs0lfTYyG3ugBiMux3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/samue/Documents/Java/Adv.Top1/Projects/concordance_Sah-NixonS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc0e3495-2d6e-488c-8943-d30c20826cd9" name="Changes" comment="" />
+      <created>1685546557833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685546557833</updated>
+      <workItem from="1685546559125" duration="4121000" />
+      <workItem from="1685630661282" duration="4138000" />
+      <workItem from="1685675123667" duration="6533000" />
+      <workItem from="1685717781222" duration="934000" />
+      <workItem from="1685719022271" duration="624000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added javadoc to some functions and added more comments to explain process">
+      <created>1685549646386</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685549646386</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Moved Main Functions to its own class file for easier readability and organization">
+      <created>1685631716217</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685631716217</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Started Trimming function">
+      <created>1685641485253</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685641485253</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added Input txt to gitignore">
+      <created>1685644183527</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685644183527</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added txt to store contractions and started work on a loop to find and remove possesive apostrophes if found">
+      <created>1685680534871</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685680534871</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Moved Punctuation trimming to its own function and made a separate function which replaces em dashes with spaces before splitting the words.">
+      <created>1685681676696</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1685681676696</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added Spaces to em Dash function and renamed it">
+      <created>1685681893749</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1685681893749</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Tidied print function and fixed punctuation trimming problems.">
+      <created>1685684396205</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1685684396205</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added javadoc to some functions and added more comments to explain process" />
+    <MESSAGE value="Moved Main Functions to its own class file for easier readability and organization" />
+    <MESSAGE value="Started Trimming function" />
+    <MESSAGE value="Added Input txt to gitignore" />
+    <MESSAGE value="Added txt to store contractions and started work on a loop to find and remove possesive apostrophes if found" />
+    <MESSAGE value="Moved Punctuation trimming to its own function and made a seperate function which replaces em dashes with spaces before splitting the words." />
+    <MESSAGE value="Moved Punctuation trimming to its own function and made a separate function which replaces em dashes with spaces before splitting the words." />
+    <MESSAGE value="Added Spaces to em Dash function and renamed it" />
+    <MESSAGE value="Tidied print function and fixed punctuation trimming problems." />
+    <option name="LAST_COMMIT_MESSAGE" value="Tidied print function and fixed punctuation trimming problems." />
+  </component>
+</project>

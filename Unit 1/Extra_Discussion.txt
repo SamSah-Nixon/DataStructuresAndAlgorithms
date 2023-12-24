@@ -1,0 +1,11 @@
+Extra Discussion
+
+1. O(n log(n)) and O(n^2) both increase at different exponentional values and O(n^2) increases faster than O(n log(n)).
+The intersecting part where both methods have the same time complexity is when n = 100.
+
+2. There are n friends and the maximum allowed for each friend is i times. 
+For every friend to reach the maximum the total visits (C) would equal i*n.
+But we only want to know when the first friend reaches the max.
+For every friend to be right before the maximum allowed visits C would equal n*(i-1)
+For one friend to have the max C would equal n*(i-1)+1
+C = n*(i-1)+1
